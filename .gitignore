@@ -1,10 +1,11 @@
 ﻿.idea
+.fleet
 depend/w3x2lni/log
 depend/YDWE/backups
 depend/YDWE/logs
 depend/YDWE/plugin/warcraft3/dzclient_api.ini
-temp/*
-projects/*
+temp
+projects
 sdk.conf
 sdk/sdk.exe
 API.md
