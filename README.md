@@ -1,6 +1,6 @@
-* 【mirror】[https://gitlab.com/h-mirror/h-lua](https://gitlab.com/h-mirror/h-lua)
 * 【document】[https://h-lua.hunzsig.org](https://h-lua.hunzsig.org)
 * 【domo】[https://github.com/h-lua/demo](https://github.com/h-lua/demo)
 * 【helloworld】[https://github.com/h-lua/helloworld](https://github.com/h-lua/helloworld)
 * 【mysterious-land】[https://github.com/h-lua/mysterious-land ](https://github.com/h-lua/mysterious-land )
 * 【crash】[https://github.com/h-lua/crash](https://github.com/h-lua/crash)
+* 【sponsor】[https://afdian.net/a/hunzsig](https://afdian.net/a/hunzsig)
